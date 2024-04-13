@@ -1,0 +1,17 @@
+Brand,Processor_Speed(RPM),RAM_GB,Storage_GB,Battery_mAh
+Apple,2.84,6,128,3046
+Samsung,2.9,8,256,4500
+Google,2.84,8,128,4000
+OnePlus,3.09,12,256,4500
+Xiaomi,2.96,12,256,5000
+Huawei,2.86,8,256,4200
+OPPO,3.2,8,128,4500
+Vivo,2.84,8,256,4000
+Realme,2.96,8,128,5000
+Motorola,2.8,6,128,4000
+Nokia,2.84,6,64,4500
+Sony,2.9,8,128,4000
+LG,2.8,6,128,4000
+ASUS,2.96,12,512,6000
+Lenovo,2.8,8,256,4500
+BlackBerry,2.84,6,64,3500
